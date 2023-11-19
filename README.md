@@ -14,6 +14,11 @@ Clean Architecture: Dive into the structured and modular architecture implemente
 Download Functionality: Experience the implementation of a robust file download feature, demonstrating my technical capabilities in handling network requests and storage operations.
 
 UI Design: The app boasts an intuitive and visually appealing user interface, a testament to my keen eye for design and user experience.
+## Demo of application
+
+
+https://github.com/IshworMoktan/megainfotech_task_MyBioApp/assets/89696918/719785ff-467d-479b-8f89-2007d553d367
+
 
 ## Screenshot
 ![photo1700387136](https://github.com/IshworMoktan/megainfotech_task_MyBioApp/assets/89696918/4485fb16-5381-4c5a-a4b6-f7673e92a6ae)
